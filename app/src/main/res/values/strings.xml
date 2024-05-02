@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="dont_have_account">Don\'t have an account? <b><a href="">Sign Up</a></b></string>
+</resources>

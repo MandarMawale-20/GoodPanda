@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- SVG Path data for the illustration -->
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="..." />
+    <!-- Add more paths as needed -->
+
+</vector>
